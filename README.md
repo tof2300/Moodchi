@@ -42,7 +42,6 @@ Edit
 │
 ├── gcpcred.json               # Google Cloud credentials (not included)
 ├── mood_st.py                 # Main Streamlit app
-├── requirements.txt           # Dependencies
 └── README.md                  # This file
 🚀 To Run It Yourself
 Set up a Google Cloud project
@@ -58,7 +57,6 @@ Run:
 bash
 Copy
 Edit
-pip install -r requirements.txt
 streamlit run mood_st.py
 
 🔔 Mood streaks / alerts	“3 Angry tickets in a row!” → triggers a red alert banner.
