@@ -1,6 +1,5 @@
 # Moodchi
 🧪 Mood of the Queue
-Role: Data Scientist, Operations — SF
 Challenge: Build a quick internal tool to track the “mood” of support tickets
 Tech: Python, Streamlit, Google Sheets, matplotlib
 
